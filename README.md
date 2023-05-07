@@ -1,1 +1,3 @@
 # MACHINE_LEARNING
+
+This Repository is all about the Machine learing including Feature Engineering, Exploratory data analysis , Regressiion, Logistics regression , Decision tree , Support vector Machine , Naive Bayes etc ...
